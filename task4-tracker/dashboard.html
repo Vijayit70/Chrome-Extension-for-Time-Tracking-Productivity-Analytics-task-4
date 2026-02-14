@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Productivity Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>📊 Productivity Analytics</h1>
+
+  <div class="stats">
+    <div class="card productive">Productive: <span id="productive"></span> min</div>
+    <div class="card unproductive">Unproductive: <span id="unproductive"></span> min</div>
+    <div class="card neutral">Neutral: <span id="neutral"></span> min</div>
+  </div>
+
+  <canvas id="chart" width="300" height="200"></canvas>
+
+  <script src="chart.min.js"></script>
+  <script src="dashboard.js"></script>
+</body>
+</html>
