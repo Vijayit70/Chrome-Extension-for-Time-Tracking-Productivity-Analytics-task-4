@@ -1,4 +1,17 @@
-Chrome Extension for Time Tracking & Productivity Analytics
+**Chrome Extension for Time Tracking & Productivity Analytics**
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : VIJAY TIWARI
+
+*INTERN ID* : CTIS3387
+
+*DOMAIN* : Full Stack Web Development
+
+*DURATION* : 6 WEEKS
+
+*MENTOR* : Neela Santhosh Kumar 
+
 📌 Project Overview
 This project is a Chrome Extension that tracks the time spent by a user on different websites and analyzes productivity based on website categories. Websites are classified as productive, unproductive, or neutral, and the analytics are displayed through a user-friendly dashboard.
 The extension helps users understand their browsing habits and improve productivity by providing clear insights into how time is spent online.
