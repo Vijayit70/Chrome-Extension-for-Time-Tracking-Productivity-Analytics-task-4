@@ -1,4 +1,4 @@
-**Chrome Extension for Time Tracking & Productivity Analytics**
+**Chrome Extension for Time Tracking & Productivity Analytics task-4**
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
@@ -80,6 +80,13 @@ ________________________________________
 •	Data Storage: ✔️ Completed
 •	Analytics Dashboard: ✔️ Completed
 ________________________________________
+
+**Output**
+<img width="1920" height="1080" alt="task4(1)" src="https://github.com/user-attachments/assets/7e370174-938b-49f3-b48d-8a1e3b4f0f11" />
+<img width="1014" height="529" alt="task4" src="https://github.com/user-attachments/assets/29c659a2-9ee7-4d9f-a214-ec433e4795ac" />
+<img width="1920" height="1080" alt="task4(2)" src="https://github.com/user-attachments/assets/f41fc07f-c78f-4dd5-8a3f-6f603ab06a9f" />
+
+
 🔮 Future Enhancements
 •	Backend integration with MongoDB
 •	User authentication
